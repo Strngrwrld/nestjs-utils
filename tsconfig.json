@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
+    "strict": false,
     "target": "es6",
     "module": "commonjs",
     "declaration": true,
     "outDir": "./dist",
     "esModuleInterop": true,
-    "strict": false,
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "removeComments": true,
